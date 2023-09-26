@@ -20,7 +20,7 @@ sudo vim /opt/XenMinerTools/update_xenblocks.sh
 
 
 Script details:
-update_xenblocks.sh will pull in a fresh copy of the latest code from teh official XenBlock repo and ensure your address is placed in the config.conf file
+update_xenblocks.sh will pull in a fresh copy of the latest code from the official XenBlock repo and ensure your address is placed in the config.conf file
 
 start_xenblocks.sh will check how many cores your CPU has and start that many instances of the miner, on 1 screen using TMUX.
 Note: you can pass in a parameter (example below) if you want to run a certian amaount of sessions.
