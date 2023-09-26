@@ -8,7 +8,11 @@ These scripts make the below assumptions:
 
 
 Install by:
+
+cd /opt/
+
 sudo git clone https://github.com/LokiNugget/XenMinerTools
+
 sudo chmod -R +x XenMinerTools/*
 
 Note: Make sure you place your own address in update_xenblocks.sh under new_account_value - this will ensure your address is pushed into the config after pulling fresh code.
