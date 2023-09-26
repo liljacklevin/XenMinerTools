@@ -3,7 +3,7 @@ Set of tools to update and run Xen Miner
 
 These scripts make the below assumptions:
 
-1. That you have tmux installed
+1. That you have tmux installed (For ubuntu - use "sudo apt install tmux" - For OSX install HomeBrew (https://brew.sh/) and run brew install tmux
 2. That XenMiner is installed in /opt/xenminer/
 
 
