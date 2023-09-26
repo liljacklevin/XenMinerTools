@@ -3,7 +3,7 @@
 # Define the Git repository URL and directory
 repo_url="https://github.com/jacklevin74/xenminer.git"
 repo_dir="/opt/xenminer/"
-new_account_value="0xd8988D67fd051545784Fa3D215dfb75f999c1f41"
+new_account_value="0xe6ad24e224cd7546b34fd0e079693ad27ae2baec"
 
 # Change to the repository directory
 cd "$repo_dir" || exit 1
